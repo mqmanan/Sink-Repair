@@ -1,0 +1,44 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "1 -- Maude"
+    },
+    {
+      "id": 2,
+      "name": "2 -- Merle"
+    },
+    {
+      "id": 3,
+      "name": "3 -- Other"
+    }
+  ],
+  "completions": [
+  ],
+  "requests": [
+    {
+      "name": "Doja Cat",
+      "description": "Kitchen sink leaking.",
+      "address": "135 Main St.",
+      "budget": "1500",
+      "neededBy": "2022-10-10",
+      "id": 1
+    },
+    {
+      "name": "Kelly Rippa",
+      "description": "Bathtub clogged.",
+      "address": "157 Main St.",
+      "budget": "600",
+      "neededBy": "2022-10-10",
+      "id": 2
+    },
+    {
+      "name": "Donald Glover",
+      "description": "Hallway sink leaking.",
+      "address": "145 Wayward Ave.",
+      "budget": "500",
+      "neededBy": "2022-10-10",
+      "id": 3
+    }
+  ]
+}
